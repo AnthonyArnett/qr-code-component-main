@@ -8,11 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 
@@ -22,8 +19,8 @@ Couldn't get the image centered for the life of me, probably a super simple solu
 overthinking.
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/MrAntone/qr-code-component-main](https://github.com/MrAntone/qr-code-component-main)
+- Live Site URL: [https://mrantone.github.io/qr-code-component-main](https://mrantone.github.io/qr-code-component-main)
 
 ## My process
 
@@ -39,6 +36,6 @@ more advanced projects.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- GitHub - [@MrAntone](https://github.com/MrAntone)
+- Frontend Mentor - [@MrAntone](https://www.frontendmentor.io/profile/MrAntone)
+- Twitter - [@Anthony__Arnett](https://twitter.com/Anthony__Arnett)
