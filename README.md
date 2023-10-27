@@ -14,9 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Overview
-First project completed on Frontend Mentor. Definetely have some things to learn and research more.
-Couldn't get the image centered for the life of me, probably a super simple solution that i'm
-overthinking.
+First project completed on Frontend Mentor. Made me realize how much more I need to learn, coding from scratch is much harder than completing projects where half the code has been completed.
 ### Links
 
 - Solution URL: [https://github.com/MrAntone/qr-code-component-main](https://github.com/MrAntone/qr-code-component-main)
@@ -31,8 +29,7 @@ overthinking.
 
 ### Continued development
 
-I'm going to continue learning and circle back and try to fix this project before moving on to
-more advanced projects.
+I probably won't come back to this design, but it was a learning experience nonetheless.
 
 ## Author
 
